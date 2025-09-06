@@ -30,4 +30,4 @@ It also prints real-time sensor values on the Serial Monitor for monitoring and 
 
 ---
 
-## 🖥️ Circuit Diagram
+
